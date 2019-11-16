@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/main/java/com/example/ReviewProjects/Abstract" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/main/java/com/example/ReviewProjects/ArrayList" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/main/java/com/example/ReviewProjects/Arrays" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/main/java/com/example/ReviewProjects/Constructors" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/main/java/com/example/ReviewProjects/Constructors_OnGitHub" vcs="" />
+    <mapping directory="$PROJECT_DIR$/src/main/java/com/example/ReviewProjects/Static_And_Instance" vcs="Git" />
+  </component>
+</project>

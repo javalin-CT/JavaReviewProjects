@@ -1,0 +1,88 @@
+
+*** These modified files were found in JOE when it aborted on Fri Nov 15 20:16:37 2019
+*** JOE was aborted because the terminal closed
+
+*** File '(Unnamed)'
+/home/jcwcoding/workspace/JavaReviewProjects/.git/COMMIT_EDITMSG
+
+*** File '/home/jcwcoding/workspace/JavaReviewProjects/.git/COMMIT_EDITMSG'
+Non-consequential
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   .gradle/5.2.1/executionHistory/executionHistory.bin
+#	new file:   .gradle/5.2.1/executionHistory/executionHistory.lock
+#	new file:   .gradle/5.2.1/fileChanges/last-build.bin
+#	new file:   .gradle/5.2.1/fileContent/fileContent.lock
+#	new file:   .gradle/5.2.1/fileHashes/fileHashes.bin
+#	new file:   .gradle/5.2.1/fileHashes/fileHashes.lock
+#	new file:   .gradle/5.2.1/gc.properties
+#	new file:   .gradle/5.2.1/javaCompile/classAnalysis.bin
+#	new file:   .gradle/5.2.1/javaCompile/javaCompile.lock
+#	new file:   .gradle/5.2.1/javaCompile/taskHistory.bin
+#	new file:   .gradle/buildOutputCleanup/buildOutputCleanup.lock
+#	new file:   .gradle/buildOutputCleanup/cache.properties
+#	new file:   .gradle/buildOutputCleanup/outputFiles.bin
+#	new file:   .gradle/vcs-1/gc.properties
+#	new file:   .idea/$PRODUCT_WORKSPACE_FILE$
+#	new file:   .idea/.gitignore
+#	new file:   .idea/.name
+#	new file:   .idea/gradle.xml
+#	new file:   .idea/misc.xml
+#	new file:   .idea/uiDesigner.xml
+#	new file:   .idea/vcs.xml
+#	new file:   build.gradle
+#	new file:   build/classes/java/main/com/example/OfficeHours/ArrayList/Syntax_And_Notes.class
+#	new file:   build/classes/java/main/com/example/OfficeHours/ArrayList/methods.class
+#	new file:   build/classes/java/main/com/example/OfficeHours/ArrayList/practice.class
+#	new file:   build/classes/java/main/com/example/OfficeHours/Arrays/ArrayPractice.class
+#	new file:   build/classes/java/main/com/example/OfficeHours/Arrays/Day_1_Array_Multi.class
+#	new file:   build/classes/java/main/com/example/OfficeHours/Arrays/Day_1_Array_Single.class
+#	new file:   build/classes/java/main/com/example/OfficeHours/Constructors/Syntax_And_Notes.class
+#	new file:   build/classes/java/main/com/example/OfficeHours/Constructors/parent.class
+#	new file:   build/classes/java/main/com/example/OfficeHours/Constructors/practice.class
+#	new file:   build/classes/java/main/com/example/OfficeHours/Encapsulation/Syntax_and_Notes.class
+#	new file:   build/classes/java/main/com/example/OfficeHours/Encapsulation/practice.class
+#	new file:   build/classes/java/main/com/example/OfficeHours/Parse_ValueOf/Syntax_and_Notes.class
+#	new file:   build/classes/java/main/com/example/OfficeHours/Parse_ValueOf/practice.class
+#	new file:   build/classes/java/main/com/example/OfficeHours/Static_And_Instance/Syntax_and_Notes.class
+#	new file:   build/classes/java/main/com/example/OfficeHours/Static_And_Instance/practice.class
+#	new file:   build/classes/java/main/com/example/OfficeHours/Ternary/Syntax_And_Notes.class
+#	new file:   build/classes/java/main/com/example/OfficeHours/Ternary/practice.class
+#	new file:   build/classes/java/main/com/example/OfficeHours/WrapperClass/Syntax_And_Notes.class
+#	new file:   build/classes/java/main/com/example/OfficeHours/WrapperClass/practice.class
+#	new file:   build/classes/java/main/com/example/OfficeHours/Zoo/Animal.class
+#	new file:   build/classes/java/main/com/example/OfficeHours/Zoo/TestAnimal.class
+#	new file:   gradle/wrapper/gradle-wrapper.jar
+#	new file:   gradle/wrapper/gradle-wrapper.properties
+#	new file:   gradlew
+#	new file:   gradlew.bat
+#	new file:   settings.gradle
+#	new file:   src/main/java/com/example/ReviewProjects/Abstract
+#	new file:   src/main/java/com/example/ReviewProjects/ArrayList
+#	new file:   src/main/java/com/example/ReviewProjects/Arrays
+#	new file:   src/main/java/com/example/ReviewProjects/Constructors
+#	new file:   src/main/java/com/example/ReviewProjects/Encapsulation/Syntax_and_Notes.java
+#	new file:   src/main/java/com/example/ReviewProjects/Encapsulation/practice.java
+#	new file:   src/main/java/com/example/ReviewProjects/Static_And_Instance
+#	new file:   src/main/java/com/example/ReviewProjects/Ternary/Syntax_And_Notes.java
+#	new file:   src/main/java/com/example/ReviewProjects/Ternary/practice.java
+#	new file:   src/main/java/com/example/ReviewProjects/WrapperClass/Syntax_And_Notes.java
+#	new file:   src/main/java/com/example/ReviewProjects/WrapperClass/practice.java
+#	new file:   src/main/java/com/example/ReviewProjects/Zoo/Animal.java
+#	new file:   src/main/java/com/example/ReviewProjects/Zoo/TestAnimal.java
+#
+# Changes not staged for commit:
+#	modified:   src/main/java/com/example/ReviewProjects/Constructors (modified content)
+#
+
+*** File '* Startup Log *'
+Processing '/etc/joe/editorrc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/editorrc
